@@ -64,5 +64,5 @@ spec:
       name: odh-dashboard
   repos:
     - name: manifests
-      uri: 'https://github.com/opendatahub-io/odh-manifests/tarball/v0.9.0'
-  version: v0.9-branch-openshift
+      uri: 'https://github.com/opendatahub-io/odh-manifests/tarball/v1.0.2'
+  version: v1.0.2
