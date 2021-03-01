@@ -4,3 +4,4 @@ kind: Kustomization
 namespace: odh-jupyterhub
 resources:
   - ceph-drive-failure.yaml
+  - ocp-ci-analysis.yaml
